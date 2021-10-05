@@ -16,14 +16,14 @@
   "author": "Olonyl",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "autoprefixer": "^9.6.1",
+    "autoprefixer": "^10.3.7",
     "concat": "^1.0.3",
-    "node-sass": "^4.12.0",
+    "node-sass": "^6.0.1",
     "npm-run-all": "^4.1.5",
-    "parallelshell": "^3.0.1",
-    "postcss-cli": "^6.1.3"
+    "parallelshell": "^3.0.2",
+    "postcss-cli": "^9.0.1"
   }
 }
