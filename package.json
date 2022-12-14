@@ -16,7 +16,7 @@
   "author": "Olonyl",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "autoprefixer": "^10.3.7",
